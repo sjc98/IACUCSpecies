@@ -1,28 +1,80 @@
-{
-{ "Species": "All Species" },
-{ "Species": "Mouse" },
-{ "Species": "Rat" },
-{ "Species": "Cat" },
-{ "Species": "Bovine/Cattle" },
-{ "Species": "Dog" },
-{ "Species": "Ferret" },
-{ "Species": "Frog" },
-{ "Species": "Goat" },
-{ "Species": "Guinea Pig" },
-{ "Species": "Hamster" },
-{ "Species": "Lemur" },
-{ "Species": "Non-human Primate" },
-{ "Species": "Rabbit" },
-{ "Species": "Sheep" },
-{ "Species": "Songbirds" },
-{ "Species": "Squirrel" },
-{ "Species": "Swine" },
-{ "Species": "Xenopus" },
-{ "Species": "Zebrafish and/or Medaka" },
-{ "Species": "Other - amphibian" },
-{ "Species": "Other - bird" },
-{ "Species": "Other - cephalopods" },
-{ "Species": "Other - fish" },
-{ "Species": "Other - mammal" },
-{ "Species": "Other - reptile" }
-}
+[
+  {
+    "Species": "All Species"
+  },
+  {
+    "Species": "Mouse"
+  },
+  {
+    "Species": "Rat"
+  },
+  {
+    "Species": "Cat"
+  },
+  {
+    "Species": "Bovine/Cattle"
+  },
+  {
+    "Species": "Dog"
+  },
+  {
+    "Species": "Ferret"
+  },
+  {
+    "Species": "Frog"
+  },
+  {
+    "Species": "Goat"
+  },
+  {
+    "Species": "Guinea Pig"
+  },
+  {
+    "Species": "Hamster"
+  },
+  {
+    "Species": "Lemur"
+  },
+  {
+    "Species": "Non-human Primate"
+  },
+  {
+    "Species": "Rabbit"
+  },
+  {
+    "Species": "Sheep"
+  },
+  {
+    "Species": "Songbirds"
+  },
+  {
+    "Species": "Squirrel"
+  },
+  {
+    "Species": "Swine"
+  },
+  {
+    "Species": "Xenopus"
+  },
+  {
+    "Species": "Zebrafish and/or Medaka"
+  },
+  {
+    "Species": "Other - amphibian"
+  },
+  {
+    "Species": "Other - bird"
+  },
+  {
+    "Species": "Other - cephalopods"
+  },
+  {
+    "Species": "Other - fish"
+  },
+  {
+    "Species": "Other - mammal"
+  },
+  {
+    "Species": "Other - reptile"
+  }
+]
